@@ -26,7 +26,7 @@ public class LoggingExample {
 		new File(LOGS_PARENT_PATH).mkdirs(); // Create the directory along with any and all parent directories.
 	}
 	
-	public static void main(String[] args) {
+	static void main() {
 		logger.setLevel(Level.ALL); // Make sure that the logger at least is okay with logging every message.
 		
 		// These logging Levels are usually not logged (or even used for smaller programs) unless debugging.
