@@ -9,8 +9,8 @@
 ---------------------
 
 You might find:
-- [Logger](https://docs.oracle.com/en/java/javase/21/docs/api/java.logging/java/util/logging/Logger.html)
-- [FileHandler](https://docs.oracle.com/en/java/javase/21/docs/api/java.logging/java/util/logging/FileHandler.html)
+- [Logger](https://docs.oracle.com/en/java/javase/25/docs/api/java.logging/java/util/logging/Logger.html)
+- [FileHandler](https://docs.oracle.com/en/java/javase/25/docs/api/java.logging/java/util/logging/FileHandler.html)
 
 helpful references during this lab.
 
